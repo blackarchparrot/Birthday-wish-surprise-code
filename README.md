@@ -3,9 +3,9 @@ A fun and creative Birthday Wish Webpage built using HTML, CSS, and JavaScript.
 This project displays a beautiful birthday greeting with an awesome auto-rotating user image effect, making the celebration feel more interactive and visually appealing.
 It’s a simple front-end project designed for sharing birthday wishes in a unique way.
 # 🌐 Live Preview
-👉 <a href="https://birthdaywishaasunny.netlify.app/">Click here to see the live demo</a>
+👉 <a href="https://birthday-wish-surprise-code-aasunny.blackparrotfedora.workers.dev/">Click here to see the live demo</a>
 Or click the link given below
-https://birthdaywishaasunny.netlify.app/
+https://birthday-wish-surprise-code-aasunny.blackparrotfedora.workers.dev/
 # ✨ Features
 🎂 Beautiful birthday greeting interface
 🖼️ Auto-rotating user image animation
